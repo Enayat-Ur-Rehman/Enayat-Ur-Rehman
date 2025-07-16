@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Enayat ur rehman</h1>
-<h3 align="center">A passionate Software Engineer from Karachi pakistan</h3>
+<h3 align="center">A Software Engineer from Karachi pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif">
 
-- 🌱 I’m currently learning **Programming languages**
+- 🌱 I’m currently working as a React Frontend Developer, focusing on building modern web applications with Next.js and related frontend technologies.
 
-- 📫 How to reach me **enayatrehman80@gmail.com**
+- 📫 How to reach me **enayatrehman8@gmail.com**
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/enayatrehman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enayatrehman_" height="30" width="40" /></a>
+<a href="https://instagram.com/enayat._.rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enayatrehman_" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/enayat-ur-rehman-42a7912b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enayatrehman_" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
