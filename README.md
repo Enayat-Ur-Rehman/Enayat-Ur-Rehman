@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif">
 
-- 🌱 I’m currently working as a **React Frontend Developer**, focusing on building modern web applications using **Next.js** and related frontend technologies.
+- 🌱 I’m currently working as a **Next.js Developer**, focusing on building modern web applications and related frontend technologies.
 
 - 📫 How to reach me: **enayatrehman8@gmail.com**
 
