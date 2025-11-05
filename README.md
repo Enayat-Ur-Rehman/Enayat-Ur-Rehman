@@ -44,17 +44,17 @@ const enayat = {
 </div>
 
 
-## Contribution Snake
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/enayat-ur-rehman/enayat-ur-rehman/output/snake.svg" alt="Snake animation" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=enayat-ur-rehman&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF"/>
 
-</div>
+</div> -->
 
 
 ## Let's Connect
