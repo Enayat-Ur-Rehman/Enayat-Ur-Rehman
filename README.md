@@ -11,10 +11,9 @@
 ```typescript
 const enayat = {
     location: "Karachi, Pakistan 🇵🇰",
-    currentRole: "Next.js Developer",
+    currentRole: "Junior Software Engineer",
     focus: ["Web Applications", "Frontend Development", "User Experience"],
     learning: ["TypeScript", "System Design", "Performance Optimization"],
-    askMeAbout: ["React", "Next.js", "Tailwind CSS", "JavaScript"],
     reachMe: "enayatrehman8@gmail.com"
 };
 ```
